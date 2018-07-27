@@ -1,0 +1,25 @@
+import requests,re
+
+url = 'http://i.meizitu.net/2018/01/04c01.jpg'
+
+header = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36'}
+
+
+html = requests.get(url,header)
+with open('text.jpg','wb') as wb:
+    wb.write(html.content)
+    wb.close()
+
+
+#print(html.text)
+
+# r = re.compile(r'\w{10,}.jpg')
+# image_list = r.findall(html.text)
+#
+# for image in image_list:
+#     #requests.get('http://www.diyilou.net/d/file/2018-05/03/'+i,header)
+#     with open(image,'wb') as fb:
+#         fb.write(requests.get('http://www.diyilou.net/d/file/2018-05/03/'+image,header).content)
+#         fb.close()
+#     print(image + ">>>已下载")

@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27ed7fa7-aa04-472f-93ed-5055ae652eb6" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/chiu$one_page_image.coverage" NAME="one_page_image Coverage Results" MODIFIED="1528524366581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chiu$one_page_image2.coverage" NAME="one_page_image2 Coverage Results" MODIFIED="1528377242271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chiu$ssh_upload.coverage" NAME="ssh_upload Coverage Results" MODIFIED="1532576841602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DevOps" />
+    <SUITE FILE_PATH="coverage/chiu$start.coverage" NAME="start Coverage Results" MODIFIED="1531894114189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/server/server" />
+    <SUITE FILE_PATH="coverage/chiu$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1532358746814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/视频处理" />
+    <SUITE FILE_PATH="coverage/chiu$excle_table.coverage" NAME="excle_table Coverage Results" MODIFIED="1531818384499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模块" />
+    <SUITE FILE_PATH="coverage/chiu$disk_usage.coverage" NAME="disk_usage Coverage Results" MODIFIED="1531731136955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模块" />
+    <SUITE FILE_PATH="coverage/chiu$logTest.coverage" NAME="logTest Coverage Results" MODIFIED="1529483471148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chiu$testsoup.coverage" NAME="testsoup Coverage Results" MODIFIED="1529292780169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bcycos" />
+    <SUITE FILE_PATH="coverage/chiu$disk_space_switching.coverage" NAME="disk_space_switching Coverage Results" MODIFIED="1531730571333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模块" />
+    <SUITE FILE_PATH="coverage/chiu$psutils_disk.coverage" NAME="psutils_disk Coverage Results" MODIFIED="1531730581100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模块" />
+    <SUITE FILE_PATH="coverage/chiu$ssh_remote_command__1_.coverage" NAME="ssh_remote_command (1) Coverage Results" MODIFIED="1532584175640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ssh_remote" />
+    <SUITE FILE_PATH="coverage/chiu$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1532510656578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/视频处理" />
+    <SUITE FILE_PATH="coverage/chiu$remove_jpg.coverage" NAME="remove_jpg Coverage Results" MODIFIED="1532619086316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/视频处理" />
+    <SUITE FILE_PATH="coverage/chiu$random.coverage" NAME="random Coverage Results" MODIFIED="1528694915205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zabbix" />
+    <SUITE FILE_PATH="coverage/chiu$test.coverage" NAME="test Coverage Results" MODIFIED="1532615011226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/视频处理" />
+    <SUITE FILE_PATH="coverage/chiu$wall.coverage" NAME="wall Coverage Results" MODIFIED="1529800427383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wallpaperscraft" />
+    <SUITE FILE_PATH="coverage/chiu$se.coverage" NAME="se Coverage Results" MODIFIED="1528902733819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/she" />
+    <SUITE FILE_PATH="coverage/chiu$process.coverage" NAME="process Coverage Results" MODIFIED="1529916475477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多任务" />
+    <SUITE FILE_PATH="coverage/chiu$subproc.coverage" NAME="subproc Coverage Results" MODIFIED="1532052421553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模块" />
+    <SUITE FILE_PATH="coverage/chiu$mzitu.coverage" NAME="mzitu Coverage Results" MODIFIED="1528524278151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mzitu" />
+    <SUITE FILE_PATH="coverage/chiu$bcycos.coverage" NAME="bcycos Coverage Results" MODIFIED="1529744732976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bcycos" />
+    <SUITE FILE_PATH="coverage/chiu$test4.coverage" NAME="test4 Coverage Results" MODIFIED="1532619185225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/视频处理" />
+    <SUITE FILE_PATH="coverage/chiu$scan_port.coverage" NAME="scan_port Coverage Results" MODIFIED="1528450419712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zabbix" />
+    <SUITE FILE_PATH="coverage/chiu$ran__1_.coverage" NAME="ran (1) Coverage Results" MODIFIED="1528698299645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chiu$one_page_image3.coverage" NAME="one_page_image3 Coverage Results" MODIFIED="1528387869730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chiu$ran.coverage" NAME="ran Coverage Results" MODIFIED="1528694998257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Zabbix" />
+    <SUITE FILE_PATH="coverage/chiu$process1.coverage" NAME="process1 Coverage Results" MODIFIED="1529997177054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/多任务" />
+    <SUITE FILE_PATH="coverage/chiu$ssh_remote.coverage" NAME="ssh_remote Coverage Results" MODIFIED="1532574767265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DevOps" />
+    <SUITE FILE_PATH="coverage/chiu$ssh_remote_command.coverage" NAME="ssh_remote_command Coverage Results" MODIFIED="1532578299679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DevOps" />
+    <SUITE FILE_PATH="coverage/chiu$ont_image.coverage" NAME="ont_image Coverage Results" MODIFIED="1528524408766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chiu$ssh_download.coverage" NAME="ssh_download Coverage Results" MODIFIED="1532574966067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DevOps" />
+    <SUITE FILE_PATH="coverage/chiu$.coverage" NAME="访问限制 Coverage Results" MODIFIED="1529914205334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CLASS类" />
+    <SUITE FILE_PATH="coverage/chiu$lite.coverage" NAME="lite Coverage Results" MODIFIED="1530005907754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sql" />
+    <SUITE FILE_PATH="coverage/chiu$action.coverage" NAME="action Coverage Results" MODIFIED="1531894193112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/server/server/webapps/deploy/actions" />
+    <SUITE FILE_PATH="coverage/chiu$video.coverage" NAME="video Coverage Results" MODIFIED="1532269613733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/视频处理" />
+    <SUITE FILE_PATH="coverage/chiu$ssh_remote_shell.coverage" NAME="ssh_remote_shell Coverage Results" MODIFIED="1532577505732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DevOps" />
+    <SUITE FILE_PATH="coverage/chiu$cv2_docment.coverage" NAME="cv2_docment Coverage Results" MODIFIED="1532614950333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/视频处理" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="test [3]" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="D:\chiu\exportToHTML" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="chiu" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="subproc.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/模块/subproc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="20" selection-start-column="20" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cv2_docment.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/视频处理/cv2_docment.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="171" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/视频处理/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/视频处理/test3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12">
+              <caret line="19" selection-start-line="19" selection-end-line="20" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test4.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/视频处理/test4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="remove_jpg.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/视频处理/remove_jpg.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ssh_remote_command.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ssh_remote/ssh_remote_command.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="393">
+              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="XHTML File" />
+        <option value="HTML4 File" />
+        <option value="TypeScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>http://pic1.win4000.com/wallpaper/2018-04-26/5ae16a816e124.jpg</find>
+      <find>pic-meinv</find>
+      <find>/em</find>
+      <find>img</find>
+      <find>http://tv.bbs886.com/a/ar/2892.html</find>
+      <find>/a/ar/2892.html</find>
+      <find>id</find>
+      <find>6567726735326970120</find>
+      <find>https://</find>
+      <find>https://images.wallpaperscraft.com/image/girl_book_smoke_122984_300x168.jpg</find>
+      <find>merge</find>
+      <find>load</find>
+      <find>start</find>
+      <find>介质</find>
+      <find>日志</find>
+      <find>find</find>
+      <find>unzip</find>
+      <find>md5</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ont_image.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/mzitu/mzitu.py" />
+        <option value="$PROJECT_DIR$/Zabbix/random.py" />
+        <option value="$PROJECT_DIR$/Zabbix/ran.py" />
+        <option value="$PROJECT_DIR$/ran.py" />
+        <option value="$PROJECT_DIR$/she/se.py" />
+        <option value="$PROJECT_DIR$/bcycos/testsoup.py" />
+        <option value="$PROJECT_DIR$/bcycos/bcycos.py" />
+        <option value="$PROJECT_DIR$/logTest.log" />
+        <option value="$PROJECT_DIR$/logTest.py" />
+        <option value="$PROJECT_DIR$/HTML/biaoqian.xhtml" />
+        <option value="$PROJECT_DIR$/HTML/biaoqian.html" />
+        <option value="$PROJECT_DIR$/HTML/biaoqian2.html" />
+        <option value="$PROJECT_DIR$/HTML/css.html" />
+        <option value="$PROJECT_DIR$/HTML/test.html" />
+        <option value="$PROJECT_DIR$/wallpaperscraft/wall.py" />
+        <option value="$PROJECT_DIR$/CLASS类/定义类.py" />
+        <option value="$PROJECT_DIR$/CLASS类/访问限制.py" />
+        <option value="$PROJECT_DIR$/CLASS类/继承和多态.py" />
+        <option value="$PROJECT_DIR$/多任务/process.py" />
+        <option value="$PROJECT_DIR$/多任务/process1.py" />
+        <option value="$PROJECT_DIR$/HTML/test.js" />
+        <option value="$PROJECT_DIR$/sql/sqlite.py" />
+        <option value="$PROJECT_DIR$/sql/lite.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/84c0741c-20ea-45e8-bf26-c17761b25133/console.sql" />
+        <option value="$PROJECT_DIR$/模块/psutils_disk.py" />
+        <option value="$USER_HOME$/AppData/Local/Temp/scp10307/root/disk_space_switching.py" />
+        <option value="$PROJECT_DIR$/search_file_type.py" />
+        <option value="$PROJECT_DIR$/模块/disk_space_switching.py" />
+        <option value="$PROJECT_DIR$/模块/move.py" />
+        <option value="$PROJECT_DIR$/模块/disk_usage.py" />
+        <option value="$PROJECT_DIR$/模块/excle_table.py" />
+        <option value="$USER_HOME$/Desktop/server/server/webapps/deploy/actions/action.py" />
+        <option value="$USER_HOME$/Desktop/server/server/webapps/deploy/actions/myactions.py" />
+        <option value="$PROJECT_DIR$/模块/subproc.py" />
+        <option value="$PROJECT_DIR$/视频处理/video.py" />
+        <option value="$PROJECT_DIR$/视频处理/test2.py" />
+        <option value="$PROJECT_DIR$/Shell/move.ts" />
+        <option value="$PROJECT_DIR$/Shell/move.sh" />
+        <option value="$PROJECT_DIR$/DevOps/ssh_remote.py" />
+        <option value="$PROJECT_DIR$/DevOps/ssh_download.py" />
+        <option value="$PROJECT_DIR$/DevOps/ssh_upload.py" />
+        <option value="$PROJECT_DIR$/DevOps/ssh_remote_shell.py" />
+        <option value="$PROJECT_DIR$/DevOps/ssh_remote_command.py" />
+        <option value="$PROJECT_DIR$/ssh_remote/ssh_remote_command.py" />
+        <option value="$PROJECT_DIR$/nginx.conf" />
+        <option value="$PROJECT_DIR$/视频处理/test3.py" />
+        <option value="$PROJECT_DIR$/视频处理/test.py" />
+        <option value="$PROJECT_DIR$/视频处理/remove_jpg.py" />
+        <option value="$PROJECT_DIR$/视频处理/test4.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="78" />
+    <option name="y" value="-12" />
+    <option name="width" value="1940" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="chiu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chiu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chiu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chiu" type="462c0819:PsiDirectoryNode" />
+              <item name="视频处理" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML4 File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/server/server" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\chiu\视频处理" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\chiu\HTML" />
+      <recent name="D:\chiu" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.test4">
+    <configuration name="cv2_docment" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="chiu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/视频处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/视频处理/cv2_docment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="remove_jpg" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="chiu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/视频处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/视频处理/remove_jpg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ssh_download" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="chiu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DevOps" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DevOps/ssh_download.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ssh_remote_command (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="chiu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ssh_remote" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ssh_remote/ssh_remote_command.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="chiu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/视频处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/视频处理/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="chiu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/视频处理" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/视频处理/test4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ssh_remote_command (1)" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.cv2_docment" />
+      <item itemvalue="Python.test4" />
+      <item itemvalue="Python.remove_jpg" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test4" />
+        <item itemvalue="Python.remove_jpg" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.cv2_docment" />
+        <item itemvalue="Python.ssh_remote_command (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27ed7fa7-aa04-472f-93ed-5055ae652eb6" name="Default" comment="" />
+      <created>1528015952267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528015952267</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32852387" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5033512" side_tool="true" weight="0.31601125" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3511236" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4966488" weight="0.33836207" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49737534" weight="0.25754312" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49317738" visible="true" weight="0.14765458" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3297587" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49932975" weight="0.3286517" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.3297587" />
+      <window_info id="Structure" order="1" sideWeight="0.5068226" side_tool="true" weight="0.0053619305" />
+      <window_info id="Favorites" order="2" sideWeight="0.5042135" side_tool="true" weight="0.14075068" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.40625" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="运行" order="13" />
+      <window_info anchor="bottom" id="REST Client" order="15" weight="0.4312925" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="调试" order="14" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="16" weight="0.3286517" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="运行" order="13" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4966488" visible="true" weight="0.22191012" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5014045" side_tool="true" weight="0.16957104" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4985955" visible="true" weight="0.10924933" />
+      <window_info id="Structure" order="1" sideWeight="0.5014045" side_tool="true" weight="0.16957104" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286517" />
+      <window_info anchor="bottom" id="REST Client" order="15" weight="0.4312925" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49932975" weight="0.3286517" />
+      <window_info anchor="right" id="Database" order="3" weight="0.0" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49737534" weight="0.33848315" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49932975" weight="0.4073276" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5033512" side_tool="true" weight="0.31601125" />
+      <window_info anchor="bottom" id="调试" order="14" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3511236" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="71" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointLogExpression">
+      <expression>
+        <expression-string>if vc.isOpened():</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Image/美丽西沙群岛旅游风景壁纸图片 第二辑_10.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image/5aefbbad29b97.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wallpaperscraft/wall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/cmd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3384" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CLASS类/定义类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CLASS类/访问限制.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CLASS类/继承和多态.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/she/se.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML/12.jpg" />
+    <entry file="file://$PROJECT_DIR$/HTML/biaoqian.html" />
+    <entry file="file://$PROJECT_DIR$/HTML/biaoqian2.html" />
+    <entry file="file://$PROJECT_DIR$/HTML/css.html" />
+    <entry file="file://$PROJECT_DIR$/HTML/test.js" />
+    <entry file="file://$PROJECT_DIR$/HTML/test.html" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/84c0741c-20ea-45e8-bf26-c17761b25133/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/lite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/scp10307/root/disk_space_switching.py" />
+    <entry file="file://$PROJECT_DIR$/bcp/新建文本文档.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bcycos/testsoup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bcycos/bcycos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1608">
+          <caret line="69" column="1" selection-start-line="69" selection-start-column="1" selection-end-line="69" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search_file_type.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logTest.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模块/disk_usage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模块/excle_table.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多任务/process1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="9" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模块/psutils_disk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模块/disk_space_switching.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zabbix/scan_port.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模块/move.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/server/server/env/conf/settings.xml" />
+    <entry file="file://$USER_HOME$/Desktop/server/server/start.py" />
+    <entry file="file://$USER_HOME$/Desktop/server/server/webapps/deploy/actions/each.py" />
+    <entry file="file://$USER_HOME$/Desktop/server/server/webapps/deploy/actions/action.py" />
+    <entry file="file://$USER_HOME$/Desktop/server/server/webapps/deploy/actions/process.py" />
+    <entry file="file://$USER_HOME$/Desktop/server/server/webapps/deploy/actions/myactions.py" />
+    <entry file="file://$USER_HOME$/Desktop/server/server/webapps/deploy/dbms.xml" />
+    <entry file="file://$PROJECT_DIR$/模块/subproc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/视频处理/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/视频处理/.mp420.jpg" />
+    <entry file="file://$PROJECT_DIR$/Shell/move.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssh_remote/ssh_remote_shell.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1272">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssh_remote/ssh_upload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="22" column="77" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/视频处理/cv2_docment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="171" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssh_remote/ssh_download.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="9" selection-start-line="2" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nginx.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ssh_remote/ssh_remote_command.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/视频处理/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/视频处理/test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="19" selection-start-line="19" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/视频处理/remove_jpg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="46" lean-forward="true" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/视频处理/test4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

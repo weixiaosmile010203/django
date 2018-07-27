@@ -1,0 +1,27 @@
+ 2018-06-20 16:28:20,949 - DEBUG - start of program
+ 2018-06-20 16:28:20,949 - DEBUG - start of n(10)
+ 2018-06-20 16:28:20,949 - DEBUG - sum is 0, i is 0
+ 2018-06-20 16:28:20,949 - DEBUG - sum is 0, i is 1
+ 2018-06-20 16:28:20,949 - DEBUG - sum is 1, i is 2
+ 2018-06-20 16:28:20,949 - DEBUG - sum is 3, i is 3
+ 2018-06-20 16:28:20,949 - DEBUG - sum is 6, i is 4
+ 2018-06-20 16:28:20,949 - DEBUG - sum is 10, i is 5
+ 2018-06-20 16:28:20,949 - DEBUG - sum is 15, i is 6
+ 2018-06-20 16:28:20,949 - DEBUG - sum is 21, i is 7
+ 2018-06-20 16:28:20,949 - DEBUG - sum is 28, i is 8
+ 2018-06-20 16:28:20,950 - DEBUG - sum is 36, i is 9
+ 2018-06-20 16:28:20,950 - DEBUG - End of Sum(45)
+ 2018-06-20 16:29:50,977 - DEBUG - start of program
+ 2018-06-20 16:29:50,977 - DEBUG - start of n(10)
+ 2018-06-20 16:29:50,977 - DEBUG - sum is 0, i is 0
+ 2018-06-20 16:29:50,977 - DEBUG - sum is 0, i is 1
+ 2018-06-20 16:29:50,977 - DEBUG - sum is 1, i is 2
+ 2018-06-20 16:29:50,977 - DEBUG - sum is 3, i is 3
+ 2018-06-20 16:29:50,977 - DEBUG - sum is 6, i is 4
+ 2018-06-20 16:29:50,977 - DEBUG - sum is 10, i is 5
+ 2018-06-20 16:29:50,977 - DEBUG - sum is 15, i is 6
+ 2018-06-20 16:29:50,977 - DEBUG - sum is 21, i is 7
+ 2018-06-20 16:29:50,977 - DEBUG - sum is 28, i is 8
+ 2018-06-20 16:29:50,977 - DEBUG - sum is 36, i is 9
+ 2018-06-20 16:29:50,977 - DEBUG - sum is 45, i is 10
+ 2018-06-20 16:29:50,977 - DEBUG - End of Sum(55)
