@@ -19,5 +19,4 @@ def count(request):
 			word_dict[word] += 1
 	sorted_dict = sorted(word_dict.items(), key=lambda w: w[1], reverse=True)
 	return render(request, 'count.html', {
-		"count": total_count, 'text': user_text, 'wordict': word_dict,
-		'sorted': sorted_dict})
+		"count": total_count, 'text': user_text, 'sorted': sorted_dict})
