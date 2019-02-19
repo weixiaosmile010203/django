@@ -1,0 +1,22 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <title>统计字数网站</title>
+</head>
+<body>
+    <h1>你输入的总字符为：({{ count }})个</h1>
+    <h2>你输入的字符为:</h2>
+    <p>{{ text }}</p>
+    <!--
+    <h2>各个字符出现的个数分别为:</h2>
+    <p>{{ wordict }}</p>
+    <h2>字数的出现次数的排序</h2>
+    <p>{{ sorted }}</p>
+    -->
+    <h2>各个字符出现的个数分别为:</h2>
+    {% for word,count in sorted %}
+        <p>{{ word }} : {{ count }}</p>
+    {% endfor %}
+</body>
+</html>
