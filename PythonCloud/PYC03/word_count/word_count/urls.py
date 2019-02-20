@@ -20,5 +20,6 @@ from countApp import views
 urlpatterns = [
     path('', views.home),
     path('count/', views.count),
+    path('about/', views.about),
     path('admin/', admin.site.urls),
 ]
