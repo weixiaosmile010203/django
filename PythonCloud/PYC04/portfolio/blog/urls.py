@@ -12,4 +12,3 @@ urlpatterns = [
 	path('', blog_page),
         path('<int:blog_id>/', blog_text)
 ]
-#test
