@@ -1,0 +1,14 @@
+fim + photo_name
+fim + photo_dir
+
+
+PageUp / Down：上一张/下一张图片
++ / - ：放大/缩小
+a：自动缩放
+w：自适应宽度
+h：自适应高度
+j / k：平移/向上
+f / m：翻转/镜像
+r / R：旋转（顺时针/逆时针）
+ESC / q：退出
+
