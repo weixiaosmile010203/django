@@ -1,10 +1,26 @@
 {% extends "theme.html" %}
 {% block content %}
-<h2>Sign Products_hunt</h2>
-<form>
-		UserName:
-		<input type='text' name='username'>
-		<input type='password' name='password'>
-		<input type='password' name=''>
+<h2 align='center'>Sign Products_hunt</h2>
+<form method='POST' action=' {% url 'signup' %} 'align='center'>
+		{% csrf_token %}
+		用户名:
+		<br>
+		<input type='text' name='用户名'>
+		<br>
+		{{ 用户名错误  }}
+		<br>
+		密码:
+		<br>
+		<input type='password' name='密码'>
+		<br>
+		确认密码:
+		<br>
+		<input type='password' name='确认密码'>
+		<br>
+		{{ 密码错误  }}
+		<br>
+		<br>
+		<input class='btn btn-primary' type='submit' value="立即注册">
+		<br>
 </form>
 {% endblock content %}
