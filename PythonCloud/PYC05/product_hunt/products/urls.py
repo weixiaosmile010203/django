@@ -16,5 +16,6 @@ Including another URLconf
 from django.urls import path, include
 from . import views
 urlpatterns = [
-    path('publish', views.publish, name='release'),
+    path('publish/', views.publish, name='release'),
+    path('<int:product_id>', views.detail, name='产品详情'),
 ]
